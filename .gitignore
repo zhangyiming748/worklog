@@ -1,5 +1,5 @@
 # Object file
 *.o
-
+.lingma
 # Ada Library Information
 *.ali
